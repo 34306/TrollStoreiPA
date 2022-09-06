@@ -36,4 +36,5 @@ ___
   * For [Aphrodite](https://github.com/joey-gm/Aphrodite)
 * [tigisofware](https://github.com/tigisoftware)
   * For [Filza](https://github.com/tigisoftware/Filza-localization)
-And many devs that is creators of those iPA above! Many thanks!
+
+### And many devs that is creators of those iPA above! Many thanks!
