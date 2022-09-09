@@ -13,6 +13,7 @@ ___
 * Aphrodite: Modify Assets.car, useful for theme creator.
 * Carrot5 Ultra: Weather app but pro!
 * CocoaTop: Checking what process is using and how much RAM does it use.
+* Cercube: Youtube with Cercube Pro, block ads and run music background.
 * DowngradeApp: You can easily Downgrade/Upgrade app on the App Store (like Appstore++ but work on iOS 15).
 * DynaWall: Easily create your own light/dark wallpaper.
 * Filza: File Manager but it's only have write permission on /var/mobile/.
@@ -25,6 +26,7 @@ ___
 * WallpaperSetter: Easily change your light/dark wallpaper.
 * WifiScanner: Checking your wifi signal.
 * Wifi List: Show the wifi password you used to connect.
+* Zebra: Package manager like Cydia or Sileo.
 
 <br>
 
@@ -36,5 +38,7 @@ ___
   * For [Aphrodite](https://github.com/joey-gm/Aphrodite)
 * [tigisofware](https://github.com/tigisoftware)
   * For [Filza](https://github.com/tigisoftware/Filza-localization)
+* [Zebra Team](https://github.com/zbrateam)
+  * For [Zebra](https://github.com/zbrateam/Zebra)
 
 ### And many devs that is creators of those iPA above! Many thanks!
