@@ -20,8 +20,10 @@ ___
 * HarpyReloaded: Checking device using your wifi and you can block it use your wifi.
 * iGameGod: Many features for hacking game but still not work on iOS 15.
 * iMemScan: Easily modify apps memory, useful for cheating offline game.
+* iTheosMaker: You can creat your own tweak by this, remember move theos to folder that you can access.
 * ScreenShotX: Paste your screenshot on that and it will generate to beautiful pics.
 * Serial: Checking devices by typing or pasting device Serial Number.
+* Sonic: Create your own ringtone.
 * TheosTips: useful for who wants to learn coding tweak with theos!
 * WallpaperSetter: Easily change your light/dark wallpaper.
 * WifiScanner: Checking your wifi signal.
