@@ -21,6 +21,7 @@ ___
 * iGameGod: Many features for hacking game but still not work on iOS 15.
 * iMemScan: Easily modify apps memory, useful for cheating offline game.
 * iTheosMaker: You can creat your own tweak by this, remember move theos to folder that you can access.
+* Messenger: A modified Messenger that disable seen message, remove ads and disable seen Story.
 * ScreenShotX: Paste your screenshot on that and it will generate to beautiful pics.
 * Serial: Checking devices by typing or pasting device Serial Number.
 * TheosTips: useful for who wants to learn coding tweak with theos!
