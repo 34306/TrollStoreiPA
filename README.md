@@ -16,6 +16,7 @@ ___
 * Cercube: Youtube with Cercube Pro, block ads and run music background.
 * DowngradeApp: You can easily Downgrade/Upgrade app on the App Store (like Appstore++ but work on iOS 15).
 * DynaWall: Easily create your own light/dark wallpaper.
+* Facebook: Facebook but it's no ads.
 * Filza: File Manager but it's only have write permission on /var/mobile/.
 * HarpyReloaded: Checking device using your wifi and you can block it use your wifi.
 * iGameGod: Many features for hacking game but still not work on iOS 15.
