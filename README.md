@@ -14,7 +14,6 @@ ___
 * Carrot5 Ultra: Weather app but pro!
 * CocoaTop: Checking what process is using and how much RAM does it use.
 * Cercube: Youtube with Cercube Pro, block ads and run music background.
-* DowngradeApp: You can easily Downgrade/Upgrade app on the App Store (like Appstore++ but work on iOS 15).
 * DynaWall: Easily create your own light/dark wallpaper.
 * Filza: File Manager but it's only have write permission on /var/mobile/.
 * HarpyReloaded: Checking device using your wifi and you can block it use your wifi.
