@@ -31,6 +31,10 @@ ___
 * Wifi List: Show the wifi password you used to connect.
 * Zebra: Package manager like Cydia or Sileo.
 
+
+### AppStore++ for TrollStore by CokePokes here! (https://github.com/CokePokes/AppStorePlus-TrollStore)
+
+
 <br>
 
 ### Credits:
