@@ -11,6 +11,7 @@ ___
 
 ### iPA Descryption:
 * Aphrodite: Modify Assets.car, useful for theme creator.
+* Appstore++: Downgrade app from Appstore easily, need account that already purchase that app to downgrade.
 * Carrot5 Ultra: Weather app but pro!
 * CocoaTop: Checking what process is using and how much RAM does it use.
 * Cercube: Youtube with Cercube Pro, block ads and run music background.
