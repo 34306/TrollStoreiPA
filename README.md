@@ -3,7 +3,7 @@
 <div style="text-align: center;">
 <b>This repo saved iPA for TrollStore also know as tweak-to-iPA which is a tweak on jailbreak but convert to iPA and work with TrollStore iOS 15.0 to 15.1.1</b><br><br>
 
-<img src="https://raw.githubusercontent.com/34306/TrollStoreiPA/main/PreviewImage.jpeg">
+<img src="https://raw.githubusercontent.com/34306/TrollStoreiPA/main/484FAFB0-CF69-49F8-9077-37C1E3C4A174.jpeg">
 </div>
 
 ___
