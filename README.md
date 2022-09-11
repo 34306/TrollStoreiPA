@@ -32,7 +32,7 @@ ___
 * Zebra: Package manager like Cydia or Sileo.
 
 
-### [AppStore++ for TrollStore by CokePokes here!] (https://github.com/CokePokes/AppStorePlus-TrollStore)
+### [AppStore++ for TrollStore by CokePokes here!](https://github.com/CokePokes/AppStorePlus-TrollStore)
 
 
 <br>
