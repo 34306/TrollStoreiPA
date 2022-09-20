@@ -13,6 +13,7 @@ ___
 * Aphrodite: Modify Assets.car, useful for theme creator.
 * Apps Manager: Backup, Wipe or Restore app data.
 * Appstore++: Downgrade app from Appstore easily, need account that already purchase that app to downgrade.
+* BullFrogAssistant: It's an application that can use for sideload app directly on your iPhone, but we have TrollStore so we can use its spoofs GPS/Fake location.
 * Carrot5 Ultra: Weather app but pro!
 * CocoaTop: Checking what process is using and how much RAM does it use.
 * Cercube: Youtube with Cercube Pro, block ads and run music background.
@@ -25,6 +26,7 @@ ___
 * iMemScan: Easily modify apps memory, useful for cheating offline game.
 * iTheosMaker: You can creat your own tweak by this, remember move theos to folder that you can access.
 * Messenger: A modified Messenger that disable seen message, remove ads and disable seen Story.
+* MobileMiner: You can mine Bitcoin on your iPhone or just install to checking BTC.
 * ScreenShotX: Paste your screenshot on that and it will generate to beautiful pics.
 * Serial: Checking devices by typing or pasting device Serial Number.
 * TheosTips: useful for who wants to learn coding tweak with theos!
