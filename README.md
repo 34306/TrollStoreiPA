@@ -39,6 +39,8 @@ ___
 
 ### [AppStore++ for TrollStore by CokePokes here!](https://github.com/CokePokes/AppStorePlus-TrollStore)
 
+### [Mugunghwa](https://github.com/s8ngyu/Mugunghwa) - Theme your keyboard LS, NotiBadge and more!
+
 
 <br>
 
@@ -52,5 +54,7 @@ ___
   * For [Filza](https://github.com/tigisoftware/Filza-localization)
 * [Zebra Team](https://github.com/zbrateam)
   * For [Zebra](https://github.com/zbrateam/Zebra)
+* [Opa334](https://github.com/opa334)
+  * For [TrollStore](https://github.com/opa334/TrollStore)
 
 ### And many devs that is creators of those iPA above! Many thanks!
