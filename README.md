@@ -27,6 +27,7 @@ ___
 * iTheosMaker: You can creat your own tweak by this, remember move theos to folder that you can access.
 * Messenger: A modified Messenger that disable seen message, remove ads and disable seen Story.
 * MobileMiner: You can mine Bitcoin on your iPhone or just install to checking BTC.
+* NiceBattery: Display battery info by install iPA via TrollStore.
 * Novus: A phone app with a nice UI and call history.
 * ScreenShotX: Paste your screenshot on that and it will generate to beautiful pics.
 * Serial: Checking devices by typing or pasting device Serial Number.
