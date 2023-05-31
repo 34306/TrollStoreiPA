@@ -6,6 +6,7 @@
 <img src="https://raw.githubusercontent.com/34306/TrollStoreiPA/main/484FAFB0-CF69-49F8-9077-37C1E3C4A174.jpeg">
 </div>
 
+### Since the relase of Dopamine is the jailbreak for TrollStore-able devices, this is the EOF to the repo (only the place for people who on 15.5/15.6 beta version, which still works with TrollStore). I'm glad that I was here to help y'all with this. Peace!
 ___
 <br>
 
