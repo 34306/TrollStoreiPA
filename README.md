@@ -1,12 +1,12 @@
 # TrollStoreiPA
 
 <div style="text-align: center;">
-<b>This repo saved iPA for TrollStore also know as tweak-to-iPA and DailyiPAs which is a tweak on jailbreak but convert to iPA and work with TrollStore iOS 15.0 to 15.5 beta 4 and iPAs that daily apps you use.</b><br><br>
+<b>This repo saved iPA for TrollStore also know as tweak-to-iPA and DailyiPAs which is a tweak on jailbreak but convert to iPA and work with TrollStore iOS 14.0 to 16.6.1 & 17.0 and iPAs that daily apps you use.</b><br><br>
 
 <img src="https://raw.githubusercontent.com/34306/TrollStoreiPA/main/484FAFB0-CF69-49F8-9077-37C1E3C4A174.jpeg">
 </div>
 
-### Since the relase of Dopamine is the jailbreak for TrollStore-able devices, this is the EOF to the repo (only the place for people who on 15.5/15.6 beta version, which still works with TrollStore). I'm glad that I was here to help y'all with this. Peace!
+### TrollStore for iOS 15.5 - 16.6.1 upcoming so I'll re-open to support new TrollStore iPAs!
 ___
 <br>
 
