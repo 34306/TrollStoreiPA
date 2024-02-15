@@ -1,4 +1,4 @@
-# TrollStoreiPA
+# TrollStoreiPA (already remove any file that related to piracy, it's clean now)
 
 <div style="text-align: center;">
 <b>This repo saved iPA for TrollStore also know as tweak-to-iPA and DailyiPAs which is a tweak on jailbreak but convert to iPA and work with TrollStore iOS 14.0 to 16.6.1 & 17.0 and iPAs that daily apps you use.</b><br><br>
