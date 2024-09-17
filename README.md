@@ -6,24 +6,9 @@
 <img src="https://raw.githubusercontent.com/34306/TrollStoreiPA/main/484FAFB0-CF69-49F8-9077-37C1E3C4A174.jpeg">
 </div>
 
-### TrollStore for iOS 15.5 - 16.6.1 upcoming so I'll re-open to support new TrollStore iPAs!
+### TrollStore for iOS 15.5 - 16.6.1 upcoming so I'll re-open to support new TrollStore iPAs! IT'S EOL
 ___
 <br>
-
-### iPA Descryption:
-* Apps Manager: Backup, Wipe or Restore app data.
-* Appstore++: Downgrade app from Appstore easily, need account that already purchase that app to downgrade.
-* CocoaTop: Checking what process is using and how much RAM does it use.
-* iMemScan: Easily modify apps memory, useful for cheating offline game.
-* NiceBattery: Display battery info by install iPA via TrollStore.
-* ScreenShotX: Paste your screenshot on that and it will generate to beautiful pics.
-* Serial: Checking devices by typing or pasting device Serial Number.
-* TheosTips: useful for who wants to learn coding tweak with theos!
-
-
-### [AppStore++ for TrollStore by CokePokes here!](https://github.com/CokePokes/AppStorePlus-TrollStore)
-
-### [Mugunghwa](https://github.com/s8ngyu/Mugunghwa) - Theme your keyboard LS, NotiBadge and more!
 
 
 <br>
